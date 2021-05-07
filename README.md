@@ -1224,7 +1224,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 ## [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 
 - [x] Course overview + the shell
-- [ ] Shell Tools and Scripting
+- [x] Shell Tools and Scripting
 - [ ] Editors (Vim)
 - [ ] Data Wrangling
 - [ ] Command-line Environment

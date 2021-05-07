@@ -1,6 +1,9 @@
 # pdfs in here
 /books
 
+# copied rebase instructions
+howto.md
+
 .idea
 *.iml
 personal-9894.md
